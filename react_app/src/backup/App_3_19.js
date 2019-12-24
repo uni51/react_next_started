@@ -1,3 +1,4 @@
+// リスト 3-19 ： ステートの更新 
 import React, { Component } from 'react';
 import './App.css';
 

@@ -1,3 +1,4 @@
+// （デフォルトの）Appコンポーネントを書き換えよう
 import React, { Component } from 'react';
 import './App.css';
 

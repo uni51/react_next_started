@@ -1,3 +1,4 @@
+// リスト 3-23 ： プロパティとステートの連携 
 import React, { Component } from 'react';
 import './App.css';
 

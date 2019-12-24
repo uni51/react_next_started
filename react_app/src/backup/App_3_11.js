@@ -1,3 +1,4 @@
+// 属性を利用する
 import React, { Component } from 'react';
 import './App.css';
 

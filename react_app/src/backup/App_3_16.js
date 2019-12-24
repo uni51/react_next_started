@@ -1,3 +1,4 @@
+// リスト3-16 ： Rectコンポーネントを利用する 
 import React, { Component } from 'react';
 import Rect from './Rect';
 import './App.css';

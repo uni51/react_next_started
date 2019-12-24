@@ -1,3 +1,4 @@
+// リスト 3-17 ： ステートを用意する 
 import React, { Component } from 'react';
 import './App.css';
 

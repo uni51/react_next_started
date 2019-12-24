@@ -1,3 +1,4 @@
+// リスト 3-20 ： イベントをバインドする 
 import React, { Component } from 'react';
 import './App.css';
 

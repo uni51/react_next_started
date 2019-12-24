@@ -1,3 +1,4 @@
+// コンポーネントを組み合わせる
 import React, { Component } from 'react';
 import './App.css';
 

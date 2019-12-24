@@ -1,3 +1,4 @@
+// リスト 3-22 ： ステートで表示を切り替える 
 import React, { Component } from 'react';
 import './App.css';
 
